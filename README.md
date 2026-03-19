@@ -1,4 +1,4 @@
-# 📊 Data Analytics Project – End-to-End Workflow
+# 📊 Customer-Trends-Data-Analysis
 
 ## 🔍 Overview
 
